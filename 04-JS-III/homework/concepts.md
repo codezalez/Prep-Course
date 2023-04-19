@@ -1,0 +1,1 @@
+Arrays: Con ellos podemos almacenar más de un elemento. Para ello se debe declarar una variable y guardar los elementos en [] y separarlos cada uno por una coma. Podemos guardar cadenas, números, booleanos, y otros tipos de datos aún no vistos y acceder a ellos cuando los necesitemos.
