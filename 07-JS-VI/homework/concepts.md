@@ -1,0 +1,3 @@
+Functiones Callback: Son funciones que se utilizan como argumento de otra función. Por ejemplo, cuando jugamos con amigos a un videojuego, cada vez que termina el juego, se puede mostrar en pantalla quién ganó. Para saber quién ganó, se utiliza una función que se llama Callback, y que recibe como argumento el resultado del juego. De esta manera, la función Callback se encarga de mostrar el resultado en pantalla.
+
+Es como si tú le pidieras a un amigo que te llame por teléfono cuando llegue a tu casa. Él es la función Callback que se activa cuando llega a tu casa. De la misma forma, cuando se utiliza una función Callback, se espera que se ejecute en el momento adecuado y con los datos necesarios para hacer algo útil con ellos.
